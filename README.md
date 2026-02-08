@@ -28,15 +28,7 @@ Visit `http://localhost:5000` in your browser.
 
 ## 🎯 Problem Statement
 
-Personality assessment is important for recruitment, team building, career guidance, and personal growth. However, traditional methods are often time-consuming, costly, subjective, and not easily accessible. This project uses Random Forest algorithm to automate personality prediction based on input features like  
-- time_spent_alone
-- social_events_attended
-- going_outside
-- friend_circle
-- post_frequency
-- drained_after_socialising
-- stage_fear
-
+Personality assessment is important for recruitment, team building, career guidance, and personal growth. However, traditional methods are often time-consuming, costly, subjective, and not easily accessible. This project uses Random Forest algorithm to automate personality prediction based on input features like **time_spent_alone**, **social_events_attended**, **going_outside**, **friend_circle**, **post_frequency**, **drained_after_socialising**, **stage_fear**.
 Based on these inputs, the system classifies personality into two categories: **Extrovert** and **Introvert**.
 
 ## 🛠️ Tech Stack
