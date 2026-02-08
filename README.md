@@ -36,6 +36,7 @@ Personality assessment is important for recruitment, team building, career guida
 - post_frequency
 - drained_after_socialising
 - stage_fear
+
 Based on these inputs, the system classifies personality into two categories: **Extrovert** and **Introvert**.
 
 ## 🛠️ Tech Stack
